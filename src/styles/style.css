@@ -16,6 +16,7 @@ body {
 p {
     display: grid;
     place-items: center;
+    text-align: center;
     color: white;
     font-size: 23px;
 }
