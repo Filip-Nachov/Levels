@@ -1,3 +1,10 @@
 body {
-    background-color: grey;
+    background-color: #2b2b29;
+}
+
+
+.title {
+    display: grid;
+    place-items: center;
+    color: white;
 }
