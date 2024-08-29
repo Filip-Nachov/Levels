@@ -31,4 +31,5 @@ p {
 
 .disclaimer {
     display: grid;
+    place-items: center;
 }
