@@ -32,4 +32,6 @@ p {
 .disclaimer {
     display: grid;
     place-items: center;
+    height: calc(100vh - 60px);
+    color: #e8590c;
 }
