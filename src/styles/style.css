@@ -12,3 +12,10 @@ body {
     font-size: 50px;
     font-style: regular;
 }
+
+p {
+    display: grid;
+    place-items: center;
+    color: white;
+    font-size: 23px;
+}
