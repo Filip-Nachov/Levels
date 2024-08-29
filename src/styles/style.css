@@ -32,7 +32,8 @@ p {
 .disclaimer {
     display: grid;
     place-items: center;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 60px); 
     color: #e8590c;
     font-size: 30px;
+    margin-top: 60px;
 }
