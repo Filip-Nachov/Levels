@@ -1,5 +1,7 @@
 body {
     background-color: #2b2b29;
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
 }
 
 
@@ -7,4 +9,6 @@ body {
     display: grid;
     place-items: center;
     color: white;
+    font-size: 50px;
+    font-style: regular;
 }
