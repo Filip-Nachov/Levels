@@ -24,7 +24,6 @@ body {
 }
 
 p {
-    display: grid;
     place-items: center;
     height: calc(100vh - 60px);
     text-align: center;
@@ -34,7 +33,6 @@ p {
 }
 
 .disclaimer {
-    display: grid;
     place-items: center;
     color: #E8590C;
     font-size: 30px;
