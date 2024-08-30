@@ -19,20 +19,25 @@ body {
     box-sizing: border-box; 
 }
 
-p {
+.text_container {
     display: grid;
+    grid-template-rows: auto auto;
+    height: 100vh;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+}
+
+p {
     place-items: center;
-    height: calc(100vh - 60px);
     text-align: center;
     color: white;
     font-size: 23px;
-    margin-top: 10px;
 }
 
 .disclaimer {
-    display: grid;
     place-items: center;
-    height: calc(100vh - 60px);
-    color: #e8590c;
+    color: #E8590C;
     font-size: 30px;
-}
+    margin-top: 10px;
+} 
