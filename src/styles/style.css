@@ -20,6 +20,7 @@ body {
 }
 
 .text_container {
+    display: grid;
 }
 
 p {
