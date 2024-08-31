@@ -42,8 +42,12 @@ p {
 } 
 
 button {
+    display: grid;
+    place-items: center;
+    width: 500px;
+    height: 80px;
     background-color: #ffa94d;
     color: white;
-    border-radius: 5px;
+    border-radius: 15px;
     border: none;
 }
