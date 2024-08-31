@@ -35,6 +35,7 @@ p {
 
 .disclaimer {
     place-items: center;
+    text-align: center;
     color: #E8590C;
-    font-size: 30px;
+    font-size: 26px;
 } 
