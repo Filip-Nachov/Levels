@@ -2,7 +2,6 @@ body {
     background-color: #2b2b29;
     font-family: "Comic Neue", cursive;
     font-weight: 700;
-    height: 100vh;
     margin: 0;
 }
 
@@ -22,7 +21,6 @@ body {
 .text_container {
     display: grid;
     grid-template-rows: auto auto;
-    height: 100vh;
     align-items: center;
     justify-items: center;
     padding: 10px;
@@ -37,7 +35,24 @@ p {
 
 .disclaimer {
     place-items: center;
+    text-align: center;
     color: #E8590C;
-    font-size: 30px;
-    margin-top: 10px;
+    font-size: 26px;
+    font-style: italic;
 } 
+
+button {
+    position: relative;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 80px;
+    font-size: 35px;
+    font-weight: 900;
+    background-color: #ffa94d;
+    color: white;
+    border-radius: 15px;
+    border: 1px solid black; 
+}
+
