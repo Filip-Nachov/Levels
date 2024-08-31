@@ -11,7 +11,6 @@ body {
     color: white;
     top: 0;
     width: 100%; 
-    height: calc(100vh - 60px);
     text-align: center; 
     font-size: 50px;
     font-style: normal; 
@@ -29,7 +28,6 @@ body {
 
 p {
     place-items: center;
-    
     text-align: center;
     color: white;
     font-size: 23px;
