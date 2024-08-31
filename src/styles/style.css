@@ -53,9 +53,17 @@ button {
     height: 80px;
     font-size: 35px;
     font-weight: 900;
-    background-color: #ffa94d;
+    background-color: rgb(255, 169, 57);
     color: white;
     border-radius: 15px;
     border: 1px solid black; 
+    cursor: pointer;
 }
 
+button:hover {
+    background-color: rgb(255, 169, 77);
+}
+
+button:active {
+    background-color: rgb(255, 169, 100);
+}
