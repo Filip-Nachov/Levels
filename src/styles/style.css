@@ -34,14 +34,14 @@ p {
     place-items: center;
     text-align: center;
     color: white;
-    font-size: 23px;
+    font-size: 20px;
 }
 
 .disclaimer {
     place-items: center;
     text-align: center;
     color: #E8590C;
-    font-size: 26px;
+    font-size: 24px;
     font-style: italic;
 } 
 
