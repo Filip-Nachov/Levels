@@ -42,10 +42,10 @@ p {
 } 
 
 button {
-    display: grid;
-    place-items: center;
+    position: relative;
     width: 500px;
     height: 80px;
+    font-size: 35px;
     background-color: #ffa94d;
     color: white;
     border-radius: 15px;
