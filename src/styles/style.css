@@ -64,4 +64,6 @@ button:hover {
     background-color: rgb(255, 169, 77);
 }
 
-
+button:active {
+    background-color: rgb(255, 169, 100);
+}
