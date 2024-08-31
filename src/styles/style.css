@@ -5,18 +5,14 @@ body {
     margin: 0;
 }
 
-
-.title {
-    position: absolute;
+/* .title {
     color: white;
-    top: 0;
-    width: 100%; 
-    text-align: center; 
     font-size: 50px;
-    font-style: normal; 
+    font-style: normal;
     padding: 10px;
-    box-sizing: border-box; 
-}
+    box-sizing: border-box;
+} */
+
 
 .text_container {
     display: grid;
@@ -24,7 +20,13 @@ body {
     align-items: center;
     justify-items: center;
     padding: 10px;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    max-width: 800px;
+    margin-bottom: 20px; 
 }
+
 
 p {
     place-items: center;
