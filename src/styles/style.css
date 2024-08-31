@@ -38,4 +38,12 @@ p {
     text-align: center;
     color: #E8590C;
     font-size: 26px;
+    font-style: italic;
 } 
+
+button {
+    background-color: #ffa94d;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
