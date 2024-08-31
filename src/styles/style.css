@@ -6,6 +6,8 @@ body {
 }
 
 .title {
+    display: grid;
+    place-items: center;
     color: white;
     font-size: 50px;
     font-style: normal;
@@ -17,8 +19,6 @@ body {
 .text_container {
     display: grid;
     grid-template-rows: auto auto;
-    align-items: center;
-    justify-items: center;
     padding: 10px;
     text-align: center;
     color: white;
